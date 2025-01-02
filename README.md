@@ -26,4 +26,8 @@ The goal of this project is to scrape store location data for various brands (CU
 
 1. **Install Dependencies**: Ensure you have the required Python libraries installed:
    ```bash
-   pip install selenium pandas geopy
+   pip install selenium geopy
+   ```
+
+2. **Download & Run data-scraping.ipynb**
+   
